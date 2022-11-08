@@ -1,11 +1,5 @@
 baseURL = 'http://kcp-dev.github.io'
-contentDir = "content/en"
-defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = false
-enableMissingTranslationPlaceholders = true
-enableRobotsTXT = true
-enableGitInfo = true
-theme = "docsy"
+
 
 disableKinds = ["home"]
 # Hide tags and categories
@@ -141,5 +135,3 @@ url = "https://github.com/kcp-dev/kcp/"
 name = "Contribute"
 weight = -99
 url = "https://github.com/kcp-dev/kcp/blob/main/CONTRIBUTING.md"
-
-
